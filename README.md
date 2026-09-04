@@ -6,8 +6,9 @@
 ![Streamlit](https://img.shields.io/badge/Streamlit-Dashboard-FF4B4B?logo=streamlit&logoColor=white)
 [![Tests](https://github.com/Huniiiii/Market-Insighter/actions/workflows/tests.yml/badge.svg)](https://github.com/Huniiiii/Market-Insighter/actions/workflows/tests.yml)
 ![License](https://img.shields.io/badge/license-MIT-1AAE9F)
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://huni-market-insighter.streamlit.app/)
 
-[View the sample market report](reports/sample_market_report.pdf)
+[Open the live dashboard](https://huni-market-insighter.streamlit.app/) | [View the sample market report](reports/sample_market_report.pdf)
 
 Market Insighter is a compact, sell-side-style research tool built to turn market data into reproducible analysis. It combines live data ingestion, rolling cross-asset relationships, macro event studies, portfolio risk, historical stress testing, and transparent rule-based commentary in one Streamlit dashboard.
 
