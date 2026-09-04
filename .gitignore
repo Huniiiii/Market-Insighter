@@ -1,0 +1,25 @@
+# Secrets — keep real credentials local
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+.streamlit/secrets.toml.*
+!.streamlit/secrets.toml.example
+
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+.ipynb_checkpoints/
+.venv/
+venv/
+dist/
+build/
+*.egg-info/
+.DS_Store
+
+# Local downloads and generated caches
+data/raw/
+data/cache/
+reports/generated/
+tmp/
